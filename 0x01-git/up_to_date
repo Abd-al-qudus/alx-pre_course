@@ -1,0 +1,2 @@
+// command used to get changes locally
+git pull origin master
